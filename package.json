@@ -1,0 +1,12 @@
+{
+  "name": "responsive web design with bootstrap",
+  "version": "1.0.0",
+  "description": "Responsive design with Bootstrap, HTML5 and CSS3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["responsive web design", "responsive", "bootstrap", "html5", "css3"],
+  "author": "William Jiang",
+  "license": "ISC"
+}
